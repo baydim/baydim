@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/temenyahidrogen)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baydesign56@gmail.com.com?subject=github_message)
 [![Instagram](https://img.shields.io/badge/Instagram-CA377D?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/baydim18?r=nametag)
+
+![](https://komarev.com/ghpvc/?username=baydim&color=green)
