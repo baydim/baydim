@@ -7,11 +7,17 @@ src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc54213
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=baydim&exclude_repo=cem_clipnet&layout=compact&theme=radical)
 <!-- ![alt text](https://github-readme-stats.vercel.app/api?username=baydim&show_icons=true&theme=radical) -->
 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my personal project
 - 🌱 I’m currently learning flutter
 - :mailbox: You can reach me at baydesign56@gmail.com
+
+![alt text](https://github-profile-trophy.vercel.app/?username=baydim)
+
+
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285735379740)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/temenyahidrogen)
