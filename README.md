@@ -6,8 +6,7 @@ src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc54213
 
 <!-- ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=baydim&exclude_repo=cem_clipnet&layout=compact&theme=radical) -->
 <!-- ![alt text](https://github-readme-stats.vercel.app/api?username=baydim&show_icons=true&theme=radical) -->
-![alt text](https://activity-graph.herokuapp.com/graph?username=baydim&bg_color=000000&color=000AFF&line=000AFF&point=B5B8FF&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
-
+![alt text](https://activity-graph.herokuapp.com/graph?username=baydim&bg_color=000000&color=026700&line=026700&point=B5B8FF&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
 
 Here are some ideas to get you started:
