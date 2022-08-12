@@ -16,10 +16,9 @@ src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc54213
 <tbody>
 <tr>
 <td>
-    ![alt text](https://github-readme-stats.vercel.app/api?username=baydim&show_icons=true&hide=&count_private=true&title_color=026700&text_color=026700&icon_color=026700&bg_color=18182400&hide_border=true&show_icons=true)
-</td>
-<td>
-    ![alt text](https://github-readme-streak-stats.herokuapp.com/?user=baydim&stroke=026700&background=18182400&ring=026700&fire=026700&currStreakNum=026700&currStreakLabel=026700&sideNums=026700&sideLabels=026700&dates=026700&hide_border=true)
+![alt text](https://github-readme-stats.vercel.app/api?username=baydim&show_icons=true&hide=&count_private=true&title_color=026700&text_color=026700&icon_color=026700&bg_color=18182400&hide_border=true&show_icons=true)
+
+![alt text](https://github-readme-streak-stats.herokuapp.com/?user=baydim&stroke=026700&background=18182400&ring=026700&fire=026700&currStreakNum=026700&currStreakLabel=026700&sideNums=026700&sideLabels=026700&dates=026700&hide_border=true)
 
 </td>
 </tr>
