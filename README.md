@@ -6,8 +6,24 @@ src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc54213
 ![alt text](https://activity-graph.herokuapp.com/graph?username=baydim&bg_color=0E111600&color=026700&line=026700&point=B5B8FF&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
 
-![alt text](https://github-readme-stats.vercel.app/api?username=baydim&show_icons=true&hide=&count_private=true&title_color=026700&text_color=026700&icon_color=026700&bg_color=18182400&hide_border=true&show_icons=true)
-![alt text](https://github-readme-streak-stats.herokuapp.com/?user=baydim&stroke=026700&background=18182400&ring=026700&fire=026700&currStreakNum=026700&currStreakLabel=026700&sideNums=026700&sideLabels=026700&dates=026700&hide_border=true)
+<table>
+  <tr>
+    <td>
+    
+    ![alt text](https://github-readme-stats.vercel.app/api?username=baydim&show_icons=true&hide=&count_private=true&title_color=026700&text_color=026700&icon_color=026700&bg_color=18182400&hide_border=true&show_icons=true)
+    
+    </td>
+    <td>
+    
+    ![alt text](https://github-readme-streak-stats.herokuapp.com/?user=baydim&stroke=026700&background=18182400&ring=026700&fire=026700&currStreakNum=026700&currStreakLabel=026700&sideNums=026700&sideLabels=026700&dates=026700&hide_border=true)
+    
+    </td>
+    
+  </tr>
+</table>
+
+
+
 
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=baydim&langs_count=20&title_color=026700&text_color=026700&icon_color=026700&bg_color=0E111600&hide_border=true&locale=en&custom_title=Top%20%Languages)
 
