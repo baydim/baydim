@@ -32,3 +32,7 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-CA377D?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/baydim18?r=nametag)
 
 ![](https://komarev.com/ghpvc/?username=baydim&color=green&label=Views)
+
+| Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11 | #12 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
