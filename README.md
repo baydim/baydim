@@ -11,7 +11,7 @@ src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc54213
 
 ![alt text](https://activity-graph.herokuapp.com/graph?username=baydim&bg_color=0E111600&color=026700&line=026700&point=B5B8FF&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
-![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=baydim&langs_count=20&title_color=026700&text_color=026700&icon_color=026700&bg_color=0E111600&hide_border=true&locale=en&custom_title=Top%20%Languages&card_width=3000)
+![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=baydim&langs_count=20&title_color=026700&text_color=026700&icon_color=026700&bg_color=0E111600&hide_border=true&locale=en&custom_title=Top%20%Languages&card_width=1000)
 
 Here are some ideas to get you started:
 
