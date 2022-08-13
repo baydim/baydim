@@ -13,6 +13,8 @@ src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc54213
 
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=baydim&langs_count=20&title_color=026700&text_color=026700&icon_color=026700&bg_color=0E111600&hide_border=true&locale=en&custom_title=Top%20%Languages&card_width=1000&line_height=1000)
 
+![alt text](https://metrics.lecoq.io/baydim?template=terminal&base.metadata=0&isocalendar=1&lines=1&repositories=1&projects=1&achievements=1&languages=1&followup=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=100&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=30&followup.sections=repositories&projects.limit=100&projects.descriptions=false&achievements.threshold=A&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FJakarta)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my personal project
