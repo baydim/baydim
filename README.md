@@ -7,11 +7,7 @@ src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc54213
 
 | _ | _ |
 | :---: | :---: |
-| ![alt text](https://github-readme-stats.vercel.app/api?username=baydim&show_icons=true&hide=&count_private=true&title_color=026700&text_color=026700&icon_color=026700&bg_color=18182400&hide_border=true&show_icons=true)   | ![alt text](https://github-readme-streak-stats.herokuapp.com/?user=baydim&stroke=026700&background=18182400&ring=026700&fire=026700&currStreakNum=026700&currStreakLabel=026700&sideNums=026700&sideLabels=026700&dates=026700&hide_border=true) |
-
-![alt text](https://activity-graph.herokuapp.com/graph?username=baydim&bg_color=0E111600&color=026700&line=026700&point=B5B8FF&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
-
-
+| ![alt text](https://github-readme-stats.vercel.app/api?username=baydim&show_icons=true&hide=&count_private=true&title_color=026700&text_color=026700&icon_color=026700&bg_color=18182400&hide_border=true&show_icons=true)   | ![alt text](https://github-readme-streak-stats.herokuapp.com/?user=baydim&stroke=026700&background=18182400&ring=026700&fire=026700&currStreakNum=026700&currStreakLabel=026700&sideNums=026700&sideLabels=026700&dates=026700&hide_border=true) | ![alt text](https://activity-graph.herokuapp.com/graph?username=baydim&bg_color=0E111600&color=026700&line=026700&point=B5B8FF&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 | _ | _ |
 | :---: | :---: |
 | ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=baydim&langs_count=20&title_color=026700&text_color=026700&icon_color=026700&bg_color=0E111600&hide_border=true&locale=en&custom_title=Top%20%Languages&line_height=1000) | ![alt text](https://metrics.lecoq.io/baydim?template=terminal&base.metadata=0&isocalendar=1&lines=1&repositories=1&projects=1&achievements=1&languages=1&followup=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=100&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=30&followup.sections=repositories&projects.limit=100&projects.descriptions=false&achievements.threshold=A&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FJakarta) |
