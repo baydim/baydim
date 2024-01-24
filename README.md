@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yournoze 21.yo</h1>
-<h3 align="center">Any professional that I want🤣 from Indonesia</h3>
+<h3 align="center">Any professional that I want🤣</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=baydim&label=Profile%20views&color=0e75b6&style=flat" alt="baydim" /> </p>
 
