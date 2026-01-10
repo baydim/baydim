@@ -29,16 +29,6 @@ fun_fact: I turn coffee into code ☕→💻
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=baydim&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="baydim trophies" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 💻 Tech Stack
 
 ### 🎨 Frontend Development
