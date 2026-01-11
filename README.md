@@ -104,19 +104,6 @@ fun_fact: I turn coffee into code ☕→💻
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=baydim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=baydim&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baydim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🎮 When I'm Not Coding
 
 🎨 Creating 3D models in Blender
