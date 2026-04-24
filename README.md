@@ -23,7 +23,7 @@
 # whoami
 name:     "Yournoze"
 role:     "Any professional that I want 🤣"
-location: "Earth 🌍  →  Indonesia 🇮🇩"
+location: "Earth 🌍"
 status:   "Building cool stuff at 2am"
 fuel:     "☕ → 💻 → 🚀"
 motto:    "Code is like humor. When you have to explain it, it's bad."
